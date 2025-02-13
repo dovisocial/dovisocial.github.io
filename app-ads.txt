@@ -1,4 +1,4 @@
-# Updated at 2025/01/03 18:01:59
+# Updated at 2025/02/13 17:43:44
 
 # Unity
 Media.net,8CU12AQ1Y,RESELLER
@@ -518,6 +518,16 @@ rubiconproject.com,26192,RESELLER,0bfd66d529a55807
 video.unrulymedia.com,322585001,RESELLER
 adiiix.com,3de5db9,RESELLER
 fromthetop.io,65529,RESELLER
+freewheel.tv,1599106,RESELLER
+freewheel.tv,1599109,RESELLER
+feeltapmedia.com,d09bf41544a3365a46c9077ebb5e35c36512,RESELLER
+google.com,pub-5519830896693885,RESELLER,f08c47fec0942fa0
+google.com,pub-7343713940473418,RESELLER,f08c47fec0942fa0
+rubiconproject.com,15044,RESELLER,0bfd66d529a55807
+video.unrulymedia.com,557688749,RESELLER
+rubiconproject.com,15268,RESELLER,0bfd66d529a55807
+pubmatic.com,159277,RESELLER
+mindtos.com,mt43c875578ca85337,RESELLER
 
 # PangleGlobal
 pangleglobal.com,54852,DIRECT
